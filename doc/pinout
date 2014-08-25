@@ -1,0 +1,13 @@
+PINOUT
+LED			AVR
+A(11pin)--->PB0
+B(7pin)---->PB1
+C(4pin)---->PB2
+D(2pin)---->PB3
+E(1pin)---->PB4
+F(10pin)--->PB5
+G(5pin)---->PB6
+N1(12pin)-->PD0
+N2(9pin)--->PD1
+N3(8pin)--->PD2
+N4(6pin)--->PD3
